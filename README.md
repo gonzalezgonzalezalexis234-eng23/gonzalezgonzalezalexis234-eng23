@@ -81,15 +81,11 @@
 <p align="center">
 
 <a href="https://github.com/gonzalezgonzalezalexis234-eng23">
-
 <img src="https://img.shields.io/github/followers/gonzalezgonzalezalexis234-eng23?label=Seguidores&style=for-the-badge&logo=github">
-
 </a>
 
 <a href="https://github.com/gonzalezgonzalezalexis234-eng23?tab=repositories">
-
 <img src="https://img.shields.io/github/repositories/gonzalezgonzalezalexis234-eng23?style=for-the-badge&logo=github&label=Repositorios">
-
 </a>
 
 </p>
@@ -111,42 +107,24 @@
 <p align="center">
 
 <a href="https://www.instagram.com/_gonzalex_1">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55">
+<img src="https://img.shields.io/badge/Instagram-_gonzalex__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/go.alex.835264">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="55">
+<img src="https://img.shields.io/badge/Facebook-Alexis-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/522821412108">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="55">
+<img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.tiktok.com/@alex_go458">
-<img src="https://cdn.simpleicons.org/tiktok/000000" width="55">
+<img src="https://img.shields.io/badge/TikTok-@alex__go458-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.threads.com/@_gonzalex_1">
-<img src="https://cdn.simpleicons.org/threads/000000" width="55">
+<img src="https://img.shields.io/badge/Threads-@_gonzalex__1-000000?style=for-the-badge&logo=threads&logoColor=white">
 </a>
-
-</p>
-
-<p align="center">
-
-📸 Instagram &nbsp; | &nbsp;
-📘 Facebook &nbsp; | &nbsp;
-💬 WhatsApp &nbsp; | &nbsp;
-🎵 TikTok &nbsp; | &nbsp;
-🧵 Threads
 
 </p>
 
