@@ -6,13 +6,13 @@
 
 ---
 
-## 🎬 ANIME
+## ✅
 
 <p align="center">
 
 <a href="https://www.youtube.com/watch?v=ju6Q_CoGRp4">
 
-<img src="https://img.youtube.com/vi/ju6Q_CoGRp4/hqdefault.jpg" width="700">
+<img src="https://share.google/0A5MnEZdo3QjIgyX8 fault.jpg" width="700">
 
 </a>
 
@@ -20,11 +20,11 @@
 
 <p align="center">
 
-🔥 <strong>Free Fire - Official Anime Trailer</strong>
+🔥 <strong>New York - Official Trailer</strong>
 
 <br><br>
 
-▶️ Haz clic en la imagen para ver el video
+Algo bello❤️
 
 </p>
 
@@ -60,7 +60,7 @@
 
 ## 🎮 VIDEOJUEGO FAVORITO
 
-### ⛏️ Minecraft
+### ⛏️ FIFA
 
 <p align="center">
 
