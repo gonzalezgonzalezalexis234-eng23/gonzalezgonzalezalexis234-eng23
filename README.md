@@ -1,9 +1,32 @@
-
 # 👋 ¡Hola! Soy Alexis
 
 ### 💻 Ingeniero en Tecnologías de la Información
 
 🚀 Apasionado por la tecnología, la programación y la creación de aplicaciones y sistemas web.
+
+---
+
+## 🎬 ANIME
+
+<p align="center">
+
+<a href="https://www.youtube.com/watch?v=ju6Q_CoGRp4">
+
+<img src="https://img.youtube.com/vi/ju6Q_CoGRp4/hqdefault.jpg" width="700">
+
+</a>
+
+</p>
+
+<p align="center">
+
+🔥 <strong>Free Fire - Official Anime Trailer</strong>
+
+<br><br>
+
+▶️ Haz clic en la imagen para ver el video
+
+</p>
 
 ---
 
@@ -29,15 +52,9 @@
 
 ## 🚀 PROYECTOS
 
-### 📐 Sistema de Figuras Geométricas
+💻 Actualmente trabajando y aprendiendo mediante proyectos de desarrollo de software.
 
-Aplicación desarrollada utilizando programación orientada a objetos e interfaz gráfica.
-
-**Tecnologías:**
-
-- Java
-- JavaFX
-- POO
+🔨 Creando nuevas aplicaciones y sistemas para mejorar mis habilidades como desarrollador.
 
 ---
 
@@ -49,7 +66,7 @@ Aplicación desarrollada utilizando programación orientada a objetos e interfaz
 
 <a href="https://www.youtube.com/watch?v=MmB9b5njVbA">
 
-<img src="https://img.youtube.com/vi/MmB9b5njVbA/maxresdefault.jpg" width="700">
+<img src="https://img.youtube.com/vi/MmB9b5njVbA/hqdefault.jpg" width="700">
 
 </a>
 
@@ -59,7 +76,7 @@ Aplicación desarrollada utilizando programación orientada a objetos e interfaz
 
 🎮 <strong>Official Minecraft Trailer</strong>
 
-<br>
+<br><br>
 
 ▶️ Haz clic en la imagen para ver el video
 
@@ -67,21 +84,11 @@ Aplicación desarrollada utilizando programación orientada a objetos e interfaz
 
 ---
 
-## 📊 GITHUB
+## 💻 LENGUAJES Y HERRAMIENTAS
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gonzalezgonzalezalexis234-eng23&show_icons=true&theme=tokyonight" />
-
-</p>
-
----
-
-## 🔥 LENGUAJES
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezgonzalezalexis234-eng23&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode,idea" />
 
 </p>
 
@@ -93,7 +100,7 @@ Aplicación desarrollada utilizando programación orientada a objetos e interfaz
 
 <a href="https://www.instagram.com/_gonzalex_1">
 
-<img src="https://skillicons.dev/icons?i=instagram" width="50">
+<img src="https://skillicons.dev/icons?i=instagram" width="60">
 
 </a>
 
@@ -113,4 +120,8 @@ Aplicación desarrollada utilizando programación orientada a objetos e interfaz
 
 ---
 
-<h3 align="center">💻 Code • Learn • Build • Repeat 🔥</h3>
+<h3 align="center">
+
+💻 Code • Learn • Build • Repeat 🔥
+
+</h3>
