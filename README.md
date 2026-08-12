@@ -4,28 +4,12 @@
 
 🚀 Apasionado por la tecnología, la programación y la creación de aplicaciones y sistemas web.
 
----
-
-## ✅
-
 <p align="center">
-
-<a href="https://www.youtube.com/watch?v=ju6Q_CoGRp4">
-
-<img src="https://share.google/0A5MnEZdo3QjIgyX8 fault.jpg" width="700">
-
-</a>
-
+  <img src="https://images.unsplash.com/photo-1574356981463-c027082dc64e?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wZWxhdGVkfDEwfHx8ZW58MHx8fHx8&ixlib=rb-4.1.0&q=80&w=1600" width="850">
 </p>
 
 <p align="center">
-
-🔥 <strong>New York - Official Trailer</strong>
-
-<br><br>
-
-Algo bello❤️
-
+  🌆 <strong>New York City</strong>
 </p>
 
 ---
@@ -50,35 +34,43 @@ Algo bello❤️
 
 ---
 
-## 🚀 PROYECTOS
-
-💻 Actualmente trabajando y aprendiendo mediante proyectos de desarrollo de software.
-
-🔨 Creando nuevas aplicaciones y sistemas para mejorar mis habilidades como desarrollador.
-
----
-
-## 🎮 VIDEOJUEGO FAVORITO
-
-### ⛏️ FIFA
+## 💻 DESARROLLO
 
 <p align="center">
-
-<a href="https://www.youtube.com/watch?v=MmB9b5njVbA">
-
-<img src="https://img.youtube.com/vi/MmB9b5njVbA/hqdefault.jpg" width="700">
-
-</a>
-
+  <img src="https://images.unsplash.com/photo-1573495627361-d9b87960b12d?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8&ixlib=rb-4.1.0&q=80&w=1600" width="850">
 </p>
 
 <p align="center">
+  💻 <strong>Code • Create • Learn</strong>
+</p>
 
-🎮 <strong>Official Minecraft Trailer</strong>
+---
 
-<br><br>
+## 🚀 PROYECTOS
 
-▶️ Haz clic en la imagen para ver el video
+💻 Desarrollo de aplicaciones y sistemas web.
+
+🔨 Trabajando constantemente en nuevos proyectos para mejorar mis habilidades.
+
+📚 Aprendiendo nuevas tecnologías y buenas prácticas de programación.
+
+---
+
+## 📊 GITHUB
+
+<p align="center">
+
+<a href="https://github.com/gonzalezgonzalezalexis234-eng23">
+
+<img src="https://img.shields.io/github/followers/gonzalezgonzalezalexis234-eng23?label=Seguidores&style=for-the-badge&logo=github">
+
+</a>
+
+<a href="https://github.com/gonzalezgonzalezalexis234-eng23?tab=repositories">
+
+<img src="https://img.shields.io/github/repositories/gonzalezgonzalezalexis234-eng23?style=for-the-badge&logo=github&label=Repositorios">
+
+</a>
 
 </p>
 
