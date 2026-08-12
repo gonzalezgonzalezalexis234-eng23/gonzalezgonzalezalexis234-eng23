@@ -5,7 +5,7 @@
 🚀 Apasionado por la tecnología, la programación y la creación de aplicaciones y sistemas web.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1574356981463-c027082dc64e?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wZWxhdGVkfDEwfHx8ZW58MHx8fHx8&ixlib=rb-4.1.0&q=80&w=1600" width="850">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Beautiful_NYC_skyline_(Unsplash).jpg" width="850">
 </p>
 
 <p align="center">
@@ -34,14 +34,18 @@
 
 ---
 
-## 💻 DESARROLLO
+## 💻 DESARROLLO DE SOFTWARE
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1573495627361-d9b87960b12d?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8&ixlib=rb-4.1.0&q=80&w=1600" width="850">
+
+<img src="https://images.unsplash.com/photo-1565076107311-59de0a9bc0fc?fm=jpg&ixlib=rb-4.1.0&q=80&w=1600" width="850">
+
 </p>
 
 <p align="center">
-  💻 <strong>Code • Create • Learn</strong>
+
+💻 <strong>Code • Create • Learn</strong>
+
 </p>
 
 ---
@@ -53,6 +57,22 @@
 🔨 Trabajando constantemente en nuevos proyectos para mejorar mis habilidades.
 
 📚 Aprendiendo nuevas tecnologías y buenas prácticas de programación.
+
+---
+
+## 👨‍💻 PROGRAMACIÓN
+
+<p align="center">
+
+<img src="https://images.unsplash.com/photo-1695067231719-a700763a2541?fm=jpg&ixlib=rb-4.0.3&q=80&w=1600" width="850">
+
+</p>
+
+<p align="center">
+
+🚀 <strong>Develop • Build • Improve</strong>
+
+</p>
 
 ---
 
@@ -91,16 +111,42 @@
 <p align="center">
 
 <a href="https://www.instagram.com/_gonzalex_1">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55">
+</a>
 
-<img src="https://skillicons.dev/icons?i=instagram" width="60">
+&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.facebook.com/go.alex.835264">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="55">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/522821412108">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="55">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@alex_go458">
+<img src="https://cdn.simpleicons.org/tiktok/000000" width="55">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.threads.com/@_gonzalex_1">
+<img src="https://cdn.simpleicons.org/threads/000000" width="55">
 </a>
 
 </p>
 
 <p align="center">
 
-📸 <strong>@_gonzalex_1</strong>
+📸 Instagram &nbsp; | &nbsp;
+📘 Facebook &nbsp; | &nbsp;
+💬 WhatsApp &nbsp; | &nbsp;
+🎵 TikTok &nbsp; | &nbsp;
+🧵 Threads
 
 </p>
 
