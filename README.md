@@ -1,26 +1,67 @@
 # 👋 ¡Hola! Soy Alexis
 
-### 💻 Ingeniero en Tecnologías de la Información
-
-🚀 Apasionado por la tecnología, la programación y la creación de aplicaciones y sistemas web.
-
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Beautiful_NYC_skyline_(Unsplash).jpg" width="850">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050510,50:17134A,100:003B5C&text=Alexis&fontColor=FFFFFF&fontSize=70&fontAlignY=45&animation=fadeIn&desc=Ingeniero%20en%20Tecnologías%20de%20la%20Información&descAlignY=68&descSize=18">
+
 </p>
 
 <p align="center">
-  🌆 <strong>New York City</strong>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B7CFF&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Create+%E2%80%A2+Learn;Desarrollo+de+Software;Sistemas+Web;Bases+de+Datos;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80">
+
+</p>
+
+---
+
+<p align="center">
+
+🌌 **WELCOME TO MY DIGITAL SPACE** 🌌
+
+</p>
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ6a2M1bXJ6N2R6bW9xZzZ1ZTZ3c3N4cHh4N2Z5eG5qN2JmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%">
+
 </p>
 
 ---
 
 ## 🧑‍💻 SOBRE MÍ
 
-🎓 Ingeniero en Tecnologías de la Información  
+> 💻 Ingeniero en Tecnologías de la Información  
+> 🚀 Apasionado por la programación y la tecnología  
+> 🌐 Desarrollo de aplicaciones y sistemas web  
+> 🗄️ Bases de datos y desarrollo de software  
+> 📚 Aprendiendo y mejorando cada día  
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+### 💡 Lo que hago
+
 💻 Desarrollo de software  
-🌐 Creación de aplicaciones y sistemas web  
+🌐 Sistemas web  
 🗄️ Bases de datos  
-🚀 Aprendiendo y mejorando cada día como desarrollador  
+⚙️ Soluciones tecnológicas  
+
+</td>
+
+<td align="center" width="50%">
+
+### 🚀 Mi objetivo
+
+Crear proyectos interesantes, aprender nuevas tecnologías y seguir creciendo como desarrollador.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -28,51 +69,81 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode,idea&perline=8">
 
 </p>
 
----
+<br>
 
-## 💻 DESARROLLO DE SOFTWARE
+<table align="center">
 
-<p align="center">
+<tr>
 
-<img src="https://images.unsplash.com/photo-1565076107311-59de0a9bc0fc?fm=jpg&ixlib=rb-4.1.0&q=80&w=1600" width="850">
+<td align="center">☕<br><b>Java</b></td>
+<td align="center">🌐<br><b>HTML</b></td>
+<td align="center">🎨<br><b>CSS</b></td>
+<td align="center">🗄️<br><b>MySQL</b></td>
 
-</p>
+</tr>
 
-<p align="center">
+<tr>
 
-💻 <strong>Code • Create • Learn</strong>
+<td align="center">🔧<br><b>Git</b></td>
+<td align="center">🐙<br><b>GitHub</b></td>
+<td align="center">💙<br><b>VS Code</b></td>
+<td align="center">💡<br><b>IntelliJ</b></td>
 
-</p>
+</tr>
+
+</table>
 
 ---
 
 ## 🚀 PROYECTOS
 
-💻 Desarrollo de aplicaciones y sistemas web.
+<table>
 
-🔨 Trabajando constantemente en nuevos proyectos para mejorar mis habilidades.
+<tr>
 
-📚 Aprendiendo nuevas tecnologías y buenas prácticas de programación.
+<td width="50%">
 
----
+### 💻 Software
 
-## 👨‍💻 PROGRAMACIÓN
+Desarrollo de aplicaciones enfocadas en resolver problemas mediante soluciones tecnológicas.
 
-<p align="center">
+</td>
 
-<img src="https://images.unsplash.com/photo-1695067231719-a700763a2541?fm=jpg&ixlib=rb-4.0.3&q=80&w=1600" width="850">
+<td width="50%">
 
-</p>
+### 🌐 Sistemas Web
 
-<p align="center">
+Creación de páginas y sistemas web utilizando diferentes tecnologías.
 
-🚀 <strong>Develop • Build • Improve</strong>
+</td>
 
-</p>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🗄️ Bases de Datos
+
+Diseño y manejo de bases de datos para almacenar y gestionar información.
+
+</td>
+
+<td width="50%">
+
+### 📚 Aprendizaje
+
+Experimentando con nuevas herramientas, lenguajes y buenas prácticas.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -80,64 +151,30 @@
 
 <p align="center">
 
-<a href="https://github.com/gonzalezgonzalezalexis234-eng23">
-<img src="https://img.shields.io/github/followers/gonzalezgonzalezalexis234-eng23?label=Seguidores&style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/gonzalezgonzalezalexis234-eng23?tab=repositories">
-<img src="https://img.shields.io/github/repositories/gonzalezgonzalezalexis234-eng23?style=for-the-badge&logo=github&label=Repositorios">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510">
 
 </p>
-
----
-
-## 💻 LENGUAJES Y HERRAMIENTAS
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode,idea" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=050510">
 
 </p>
 
 ---
 
-## 🌐 REDES SOCIALES
+## 🌌 MI FILOSOFÍA
 
 <p align="center">
 
-<a href="https://www.instagram.com/_gonzalex_1">
-<img src="https://img.shields.io/badge/Instagram-_gonzalex__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://www.facebook.com/go.alex.835264">
-<img src="https://img.shields.io/badge/Facebook-Alexis-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://wa.me/522821412108">
-<img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="https://www.tiktok.com/@alex_go458">
-<img src="https://img.shields.io/badge/TikTok-@alex__go458-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
-
-<a href="https://www.threads.com/@_gonzalex_1">
-<img src="https://img.shields.io/badge/Threads-@_gonzalex__1-000000?style=for-the-badge&logo=threads&logoColor=white">
-</a>
-
-</p>
-
----
-
-## 💡 FRASE
-
-> "Cada línea de código es una oportunidad para aprender algo nuevo."
-
----
-
-<h3 align="center">
-
-💻 Code • Learn • Build • Repeat 🔥
-
-</h3>
+```text
+        ✦
+             ·       ✧
+   ·                    *
+          CODE
+       CREATE
+          &
+        LEARN
+   *                    ·
+             ✦
+        ·          ✧
